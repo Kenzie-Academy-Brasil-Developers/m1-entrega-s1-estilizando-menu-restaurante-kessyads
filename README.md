@@ -9,29 +9,29 @@ Para o layout do menu 1, você utilizará as seguintes propriedades:
 ### Fonte
 
 1. Aplicou fontes e tamanhos apropriados:
-    - Family ‘Lato’ com tamanho 18px no body;
-    - Family ‘Supermercado One’ com tamanho 45px para o nome do restaurante;
-    - Aplicou negrito e tamanho de 20px aos nomes de cada item do menu.
+    - Family ‘Lato’ com tamanho 18px no body; OK
+    - Family ‘Supermercado One’ com tamanho 45px para o nome do restaurante; OK
+    - Aplicou negrito e tamanho de 20px aos nomes de cada item do menu. OK
 
 ### Cores
 
 2. Usou as cores corretamente nas fontes:
-    - Aplicou `#5d4037` ao nome do restaurante;
-    - Aplicou `#6d4c41` aos cabeçalhos das seções;
-    - Utilizou a keyword `firebrick` ou `#b22222` para os preços dos itens.
+    - Aplicou `#5d4037` ao nome do restaurante; OK
+    - Aplicou `#6d4c41` aos cabeçalhos das seções; OK
+    - Utilizou a keyword `firebrick` ou `#b22222` para os preços dos itens. OK
 
 ### Cabeçalho
 
-3. Os cabeçalhos das seções do menu (ex: “Starters”) estão em `small-caps`.
+3. Os cabeçalhos das seções do menu (ex: “Starters”) estão em `small-caps`. OK
 
 ### Bordas
 
-4. Adicionou um separador entre as colunas(`border`) e adicionou uma borda ao redor do endereço/rodapé: 
-    - O separador e a borda são tracejadas com espessura de `2px` e na cor `rosybrown` ou `#bc8f8f`.
+4. Adicionou um separador entre as colunas(`border`) e adicionou uma borda ao redor do endereço/rodapé: OK
+    - O separador e a borda são tracejadas com espessura de `2px` e na cor `rosybrown` ou `#bc8f8f`. OK
 
 ### Fundo
 
-5. Aplicou a imagem 'map-b.jpg' para o fundo do menu.
+5. Aplicou a imagem 'map-b.jpg' para o fundo do menu. OK
 
 ## Menu 2
 
@@ -40,17 +40,17 @@ Para o layout do menu 2, você utilizará as seguintes propriedades:
 ### Fontes
 
 1. Aplicou fontes e tamanhos apropriados:
-    - Family `Oswald` com tamanho de `14px` no body;
-    - Family `Bungee Inline` com tamanho de `46px` com um peso mais leve ao nome do restaurante;
-    - Aplicou negrito e tamanho de `16px` a cada nome de item do menu.
+    - Family `Oswald` com tamanho de `14px` no body; OK
+    - Family `Bungee Inline` com tamanho de `46px` com um peso mais leve ao nome do restaurante; OK
+    - Aplicou negrito e tamanho de `16px` a cada nome de item do menu. OK
 
 ### Cabeçalho
 
-2. Cada cabeçalho de seção (ex. "Starters") está em maiúsculas.
+2. Cada cabeçalho de seção (ex. "Starters") está em maiúsculas. OK
 
 ### Itens do menu
 
-3. Existe uma vírgula depois de cada item do menu antes da descrição.
+3. Existe uma vírgula depois de cada item do menu antes da descrição. OK
 
 ### Rodapé
 
